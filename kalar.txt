@@ -1,6 +1,6 @@
-https://raw.githubusercontent.com/koreguy/gofvck/main/korelic.txt
-https://raw.githubusercontent.com/koreguy/gofvck/main/korelic2.txt
-https://raw.githubusercontent.com/koreguy/gofvck/main/korevrs.txt
-https://raw.githubusercontent.com/koreguy/gofvck/main/ggh.txt
-https://raw.githubusercontent.com/koreguy/gofvck/main/ggh2.txt
-https://raw.githubusercontent.com/koreguy/gofvck/main/koresuppvrs.json
+https://raw.githubusercontent.com/muskara078/kakar/main/korelic.txt
+https://raw.githubusercontent.com/muskara078/kakar/main/korelic2.txt
+https://raw.githubusercontent.com/muskara078/kakar/main/korevrs.txt
+https://raw.githubusercontent.com/muskara078/kakar/main/ggh.txt
+https://raw.githubusercontent.com/muskara078/kakar/main/ggh2.txt
+https://raw.githubusercontent.com/muskara078/kakar/main/koresuppvrs.json

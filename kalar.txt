@@ -1,6 +1,6 @@
 https://raw.githubusercontent.com/muskara078/kakar/main/korelic.txt
 https://raw.githubusercontent.com/muskara078/kakar/main/korelic2.txt
-https://gist.githubusercontent.com/muskara078/656657941ea144058f5a01a2654e50a1/raw/19da60c616da1e1270b1762bd012172d0bc7ff15/gistfile1.txt
+https://gist.githubusercontent.com/muskara078/656657941ea144058f5a01a2654e50a1/raw/0419fdc7c7a3f8ee009c95afa9219d2fc1c9970d/wakakow.txt
 https://raw.githubusercontent.com/muskara078/kakar/main/ggh.txt
 https://raw.githubusercontent.com/muskara078/kakar/main/ggh2.txt
 https://raw.githubusercontent.com/muskara078/kakar/main/koresuppvrs.json

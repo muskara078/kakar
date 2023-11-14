@@ -3,5 +3,5 @@ https://gist.githubusercontent.com/muskara078/be7b730aa5924f49be2a8cb02854eeae/r
 https://gist.githubusercontent.com/muskara078/656657941ea144058f5a01a2654e50a1/raw/0419fdc7c7a3f8ee009c95afa9219d2fc1c9970d/wakakow.txt
 https://raw.githubusercontent.com/muskara078/kakar/main/ggh.txt
 https://raw.githubusercontent.com/muskara078/kakar/main/ggh2.txt
-https://raw.githubusercontent.com/muskara078/kakar/main/koresuppvrs.json
+https://gist.githubusercontent.com/muskara078/e7b5f65ebe8221f5a295df54343c646b/raw/dacd17787f2034ccec776f91ac5b7a2c83030671/supportedVer.json
 https://gist.githubusercontent.com/muskara078/659ee22aa359591b7bec40376b45c074/raw/e6aeedf7c94afa427cf43739e43ccb6d0e01ed30/serverVersion

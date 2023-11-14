@@ -4,3 +4,4 @@ https://gist.githubusercontent.com/muskara078/656657941ea144058f5a01a2654e50a1/r
 https://raw.githubusercontent.com/muskara078/kakar/main/ggh.txt
 https://raw.githubusercontent.com/muskara078/kakar/main/ggh2.txt
 https://raw.githubusercontent.com/muskara078/kakar/main/koresuppvrs.json
+https://gist.githubusercontent.com/muskara078/659ee22aa359591b7bec40376b45c074/raw/e6aeedf7c94afa427cf43739e43ccb6d0e01ed30/serverVersion
